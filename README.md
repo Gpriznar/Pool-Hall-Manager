@@ -2,7 +2,7 @@
 
 This application manages a pool hall by recording table vacancy, table use duration, and total cost for the occupancy duration. 
 
-Run in the terminal with the command python pool.py you will be able to access the Admin Interface. The data regarding use duration and total cost is stored in a json file called tables.txt. Open this file by typing open tables.txt after you run and made changes to the application. The cost is based on a value of $30/hr or $.50/min. It will round down to the nearest minute. 
+Run in the terminal with the command python pool.py, from here you will be able to access the Admin Interface. The data regarding use duration and total cost is stored in a json file called tables.txt. Open this file by typing open tables.txt after you run and made changes to the application. The cost is based on a value of $30/hr or $.50/min. It will round down to the nearest minute. 
 
 ** Future Updates ** 
 
